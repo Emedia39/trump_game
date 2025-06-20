@@ -29,6 +29,8 @@ namespace TrumpGame
                         Console.WriteLine("1～4の値を入力してください");
                         continue;
                     }
+
+                    break;
                 }
             }
         }
